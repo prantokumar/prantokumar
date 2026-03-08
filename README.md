@@ -20,7 +20,7 @@ I'm Pranto Kumar Saha! I'm a **Team Lead**:computer:, looking to solve **real-wo
 <img src="https://github.com/prantokumar/prantokumar/blob/main/eatcoderepeat.jpg" alt="eat_code_sleep_repeat" align="right" width="500" />
 
 ### 💼  Things that I'm currently working on: 
-* Team Lead: <br> Amreen Info. Tech. Limited(AITL) [2021(March)-Now]<code><a href = "https://www.amreenit.com"><img height="40" src="https://amreenit.com/image/favicon.png"></a></code>
+* Team Lead (IT). <br> Amreen Info. Tech. Limited(AITL) [2021(March)-Now]<code><a href = "https://www.amreenit.com"><img height="40" src="https://amreenit.com/image/favicon.png"></a></code>
 
 * Learning Front-End(React+MERN) Web:computer: Development
 
