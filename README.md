@@ -2,7 +2,7 @@
 # Hey there devs! :wave::smiley:
 
 <!--Introduction -->
-I'm Pranto Kumar Saha! I'm a **Software Engineer**:computer:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
+I'm Pranto Kumar Saha! I'm a **Team Lead**:computer:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
@@ -20,7 +20,7 @@ I'm Pranto Kumar Saha! I'm a **Software Engineer**:computer:, looking to solve *
 <img src="https://github.com/prantokumar/prantokumar/blob/main/eatcoderepeat.jpg" alt="eat_code_sleep_repeat" align="right" width="500" />
 
 ### 💼  Things that I'm currently working on: 
-* Lead Software Engineer(Web):computer: <br> Amreen Info. Tech. Limited(AITL) [2021(March)-Now]<code><a href = "https://www.amreenit.com"><img height="40" src="https://media.giphy.com/media/13rQ7rrTrvZXlm/giphy.gif"></a></code>
+* Team Lead:computer: <br> Amreen Info. Tech. Limited(AITL) [2021(March)-Now]<code><a href = "https://www.amreenit.com"><img height="40" src="https://amreenit.com/image/favicon.png"></a></code>
 
 * Learning Front-End(React+MERN) Web:computer: Development
 
